@@ -19,10 +19,13 @@ pip install google-auth google-auth-oauthlib google-api-python-client pytz pytho
 
 ## Setup
 1. Install Dependencies:
+```
    pip install google-auth google-auth-oauthlib google-api-python-client pytz python-dateutil
+```
    or:
+```
    pip install -r requirements.txt
-
+```
 2. Obtain Google API Credentials:
 - Go to Google Cloud Console.
 - Create a new project or select an existing one.
