@@ -1,5 +1,3 @@
-Google Cloud Gmail Fetcher
-
 ## Overview
 This Python script utilizes the Gmail API to fetch emails based on a specified time range (default is 1 hour) and saves them to a CSV file. It retrieves email metadata such as ID, subject, sender, recipient, date, received timestamp, body, and labels.
 
